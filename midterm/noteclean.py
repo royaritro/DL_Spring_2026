@@ -1,6 +1,6 @@
 import nbformat
 
-path = "dl_endterm.ipynb"
+path = "/Users/aritro/Desktop/DL_Spring_2026/dl_endterm.ipynb"
 
 with open(path) as f:
     nb = nbformat.read(f, as_version=4)
